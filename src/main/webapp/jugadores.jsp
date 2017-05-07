@@ -58,7 +58,7 @@
             <div class="card-content white-text">
               <span class="card-title"><fmt:message key="label.titulo"/>:</span>
                  <ul>
-                     <li><h2><a href="index.jsp"><h4><fmt:message key="label.manto2"/></h4></a></h2></li>
+                     <li><h2><a href="index.jsp"><h4><fmt:message key="label.manto"/></h4></a></h2></li>
                    <li><h2><a href="jugadores.jsp"><h4><fmt:message key="label.manto2"/></h4></a></h2></li>
                 </ul>
             </div>
